@@ -1,0 +1,3 @@
+__pycache__/ # git ignore permet de commit sans prendre les fichier present dans le gitignore
+.env
+*.sqlite3
